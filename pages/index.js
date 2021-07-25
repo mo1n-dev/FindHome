@@ -129,6 +129,11 @@ export default function index() {
           </div>
         ))}
       </div>
+<div className="text-cenetr">
+		
+		Recreated by Moinuddin Ahmad Shuvo<br><br>
+		Copyright © 2021. All rights reserved by FotoGen
+		</div>
     </>
   );
 }

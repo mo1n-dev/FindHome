@@ -129,6 +129,10 @@ export default function index() {
           </div>
         ))}
       </div>
+     <div className="text-center my-5">
+        Recreated by Moinuddin Ahmad Shuvo<br></br>
+        Copyright © 2021. All rights reserved by FotoGen
+     </div>
     </>
   );
 }

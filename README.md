@@ -1,22 +1,25 @@
-# Next.js + Tailwind CSS Example
+# Apartment Finder
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
-
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+It is a WebApp where you can look for your Desire Apartment.You can also filter appartment as you like to through size or monthly rent.there are option to save your favorite one to have a look bit later
 
 ## Preview
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+Preview the App live on [Vercel](https://vercel.com/):
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+Screenshot : 
+## Helpful Resources
 
-## Deploy your own
+1. This WebApp Built designed with [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2).
+2. Pages and Components are built with [Next.js](https://nextjs.org/learn/basics/navigate-between-pages/pages-in-nextjs).
+3. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+## How to initialize or run on terminal
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
-
-## How to use
+```
+npm run dev
+# or
+npm start
+```
 
 Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
 
@@ -24,6 +27,8 @@ Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packag
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
 # or
 yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+``` 
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## Sharing Project Experience!
+
+The project was such a wonderful experience. It was challenging, meaningful, and deeply fulfilling✨

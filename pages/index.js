@@ -114,8 +114,8 @@ export default function index() {
         </button>
       </div>
       <div className="grid grid-cols-3 gap-4">
-        {apartmentsData.map((home) => (
-          <div className="flex flex-col text-center border-2 p-4 m-2">
+        {apartmentsData.map((home, id) => (
+          <div key={id} className="flex flex-col text-center border-2 p-4 m-2">
             <Image
               src={home.picture}
               alt="picture of home"

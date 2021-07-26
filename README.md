@@ -4,9 +4,9 @@ It is a WebApp where you can look for your Desire Apartment.You can also filter 
 
 ## Preview
 
-Preview the App live on [Vercel](https://vercel.com/):
+Preview the App live on [Vercel](https://vercel.com/): https://find-home.vercel.app/
 
-Screenshot : 
+Screenshot : ![Screen Shot 2021-07-26 at 12 06 19 AM (2)](https://user-images.githubusercontent.com/85831534/126979324-7468959f-ad62-485c-9223-040fd8ea7279.png)
 ## Helpful Resources
 
 1. This WebApp Built designed with [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2).
